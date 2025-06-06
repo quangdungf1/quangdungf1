@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Vo Quang Dung</h1>
 <h3 align="center">A passionate developer from VietNam</h3>
 
-- 🌱 I’m currently learning **Swift**
-
-- 💬 Ask me about **JavaSrcipt,C# ,C++, MYSQL**
+- 💬 Ask me about **TypeSrcipt,JavaSrcipt,C# ,C++, MYSQL**
 
 - 📫 How to reach me **quangdungf1@gmail.com**
 
